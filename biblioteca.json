@@ -1,0 +1,220 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Ficção"
+    },
+    {
+      "id": 2,
+      "nome": "Não Ficção"
+    },
+    {
+      "id": 3,
+      "nome": "História"
+    },
+    {
+      "id": 4,
+      "nome": "Romance"
+    },
+    {
+      "id": 5,
+      "nome": "Trhiller e Suspense"
+    },
+    {
+      "id": 6,
+      "nome": "Terror"
+    },
+    {
+      "id": 7,
+      "nome": "Biografia"
+    },
+    {
+      "id": 8,
+      "nome": "Ficção Policial"
+    },
+    {
+      "id": 9,
+      "nome": "Crimes Reais"
+    },
+    {
+      "id": 10,
+      "nome": "Clássicos"
+    },
+    {
+      "id": 11,
+      "nome": "Ficção LGBT"
+    },
+    {
+      "id": 12,
+      "nome": "Poesia"
+    },
+    {
+      "id": 13,
+      "nome": "Ação e Aventura"
+    }
+  ],
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "anoPublicacao": 1605,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Origens",
+      "autor": "Neil deGrasse Tyson",
+      "anoPublicacao": 2017,
+      "isbn": "978-85-359-0650-4",
+      "disponivel": true,
+      "categoriaId": 2
+    },
+    {
+      "id": 3,
+      "titulo": "Uma Breve História do Tempo",
+      "autor": "Stephen Hawking",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 2
+    },
+    {
+      "id": 4,
+      "titulo": "Sapiens - Uma Breve História da Humanidade",
+      "autor": "Yuval Noah Harari",
+      "anoPublicacao": 2015,
+      "isbn": "8525432180",
+      "disponivel": true,
+      "categoriaId": 3
+    },
+    {
+      "id": 5,
+      "titulo": "Os sete maridos de Evelyn Hugo",
+      "autor": "Taylor Jenkins Reid",
+      "anoPublicacao": 2019,
+      "isbn": "8584391509",
+      "disponivel": true,
+      "categoriaId": 4
+    },
+    {
+      "id": 6,
+      "titulo": "Talvez um dia",
+      "autor": "Colleen Hoover",
+      "anoPublicacao": 2016,
+      "isbn": "8501050318",
+      "disponivel": true,
+      "categoriaId": 4
+    },
+    {
+      "id": 7,
+      "titulo": "Jantar Secreto",
+      "autor": "Rapahel Montes",
+      "anoPublicacao": 2016,
+      "isbn": "8535928359",
+      "disponivel": true,
+      "categoriaId": 5
+    },
+    {
+      "id": 8,
+      "titulo": "It: A coisa",
+      "autor": "Stephen King",
+      "anoPublicacao": 1968,
+      "isbn": "8560280944",
+      "disponivel": false,
+      "categoriaId": 6
+    },
+    {
+      "id": 9,
+      "titulo": "Beyond The Story - Uma história dos 10 anos de BTS",
+      "autor": "Myeongseok Kang, BTS ",
+      "anoPublicacao": 2023,
+      "isbn": "8501306703",
+      "disponivel": true,
+      "categoriaId": 7
+    },
+    {
+      "id": 10,
+      "titulo": "Os Crimes ABC",
+      "autor": "Agatha Christie",
+      "anoPublicacao": 1936,
+      "isbn": "8595085927",
+      "disponivel": true,
+      "categoriaId": 8
+    },
+    {
+      "id": 11,
+      "titulo": "Arquivos Serial Killers: Made in Brazil",
+      "autor": "Ilana Casoy",
+      "anoPublicacao": 2022,
+      "isbn": "6555982403",
+      "disponivel": true,
+      "categoriaId": 9
+    },
+    {
+      "id": 12,
+      "titulo": "Orgulho e Preconceito",
+      "autor": "Jane Austen",
+      "anoPublicacao": 1813,
+      "isbn": "9897027696",
+      "disponivel": true,
+      "categoriaId": 10
+    },
+    {
+      "id": 13,
+      "titulo": "A Divína Comédia",
+      "autor": "Dante Alighieri",
+      "anoPublicacao": 1472,
+      "isbn": "6586588243",
+      "disponivel": true,
+      "categoriaId": 10
+    },
+    {
+      "id": 14,
+      "titulo": "Vermelho, Branco e Sangue Azul",
+      "autor": "Casey McQuiston",
+      "anoPublicacao": 2019,
+      "isbn": "8555340942",
+      "disponivel": true,
+      "categoriaId": 11
+    },
+    {
+      "id": 15,
+      "titulo": "Me chame pelo seu nome",
+      "autor": "André Aciman",
+      "anoPublicacao": 2018,
+      "isbn": "8551002732",
+      "disponivel": true,
+      "categoriaId": 11
+    },
+    {
+      "id": 16,
+      "titulo": "Primeiros Cantos",
+      "autor": "Gonçalves Dias",
+      "anoPublicacao": 1846,
+      "isbn": "8531900654",
+      "disponivel": true,
+      "categoriaId": 12
+    },
+    {
+      "id": 17,
+      "titulo": "Maus",
+      "autor": "Art Spiegelman",
+      "anoPublicacao": 1986,
+      "isbn": "8535906282",
+      "disponivel": true,
+      "categoriaId": 13
+    },
+    {
+      "id": 18,
+      "titulo": "As Aventuras de Robinson Crusoe",
+      "autor": "Daniel Defoe",
+      "anoPublicacao": 1719,
+      "isbn": "6556661511",
+      "disponivel": true,
+      "categoriaId": 13
+    }
+  ]
+}
